@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# React WYSIWEG Editor with PDF Dowloader
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a test assignemnt. Follow the following instructions once repository has been cloned with the folowing command
+
+### git clone https://github.com/zainabbas86/react-editor.git react-app-code
 
 ## Available Scripts
 
