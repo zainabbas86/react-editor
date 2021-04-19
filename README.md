@@ -19,3 +19,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## Note this Code is not production ready.
 It will be good to have webpack when getting it ready for prod. Unfortunately I don't have enough time left to get webpack configured.
+It would also be nice to add some tests.
+Also I couldn't create a second page for document list selection due to time constraints. Hopefully the work I have done will demonstrate my skill in React which is a new programing platform for me.
