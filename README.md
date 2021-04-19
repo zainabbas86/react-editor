@@ -2,7 +2,7 @@
 
 This is a test assignemnt. Follow the following instructions once repository has been cloned with the folowing command
 
-### `git clone https://github.com/zainabbas86/react-editor.git react-app-code`
+### `git clone https://github.com/zainabbas86/react-editor.git`
 
 ## Available Scripts
 
