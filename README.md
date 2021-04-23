@@ -36,4 +36,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 ## Note this Code is not production ready.
-It will be good to have webpack when getting it ready for prod. Unfortunately I don't have enough time left to get webpack configured.
+I could add a second page to have the file selector as I ran out of time. I will still work on it to get more features in.
+
