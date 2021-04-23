@@ -5,7 +5,6 @@
   "dependencies": {
     "@draft-js-plugins/buttons": "^4.1.0",
     "@draft-js-plugins/editor": "^4.1.0",
-    "@draft-js-plugins/static-toolbar": "^4.1.0",
     "@react-pdf/renderer": "^2.0.5",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -24,7 +23,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "watch": "webpack serve --progress"
   },
   "eslintConfig": {
     "extends": [
@@ -43,5 +43,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.16",
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "@babel/preset-env": "^7.13.15",
+    "@babel/preset-react": "^7.13.13",
+    "@draft-js-plugins/static-toolbar": "^4.1.0",
+    "babel-loader": "^8.2.2",
+    "html-loader": "^2.1.2",
+    "webpack": "^5.35.0",
+    "webpack-cli": "^4.6.0",
+    "webpack-dev-server": "^3.11.2"
   }
 }
