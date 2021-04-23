@@ -36,5 +36,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 
 ## Note this Code is not production ready.
-I could add a second page to have the file selector as I ran out of time. I will still work on it to get more features in.
+I couldn't add a second page to have the file selector as I ran out of time. I will still work on it to get more features in.
 
